@@ -18,7 +18,7 @@ namespace RunCat365
 {
     enum Theme
     {
-        System,
+        System, //MeowMeowMeow
         Light,
         Dark,
     }
